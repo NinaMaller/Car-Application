@@ -1,0 +1,46 @@
+Ford Mustang Fastback
+25830
+5
+Color
+7
+Magnetic
+0
+Grabber Blue
+0
+Race Red
+0
+White Platinum
+495
+Triple Yellow
+495
+Lightning Blue
+0
+Oxford White
+0
+Racing Stripe
+3
+Not present
+0
+Silver Racing Stripe
+475
+Ebony Racing Stripe 
+475
+Transmission
+2
+6-Speed Manuel
+0
+6-Speed Automatic
+1195
+Enhanced Security Package
+2
+Not Present
+0
+Present
+395
+Floor Mats
+2
+Regular
+0
+All-Weather Floor Mats
+95
+

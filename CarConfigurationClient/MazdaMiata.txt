@@ -1,0 +1,47 @@
+Mazda Miata MX-5
+26395
+6
+Transmission 
+2
+Automatic
+1230
+Manual 
+0
+Trim
+3
+Sport
+0
+Club
+2955
+Grand Touring
+4875
+Color
+4
+Arctic White
+0
+Ceramic Metallic
+0
+Jet Black Mica
+0
+Soul Red Metallic
+300
+Weather Package
+2
+Present
+120
+Not present 
+0
+Interior Package
+2
+Present 
+340
+Not present
+0
+Appearance Package
+2
+Present
+1200
+Not present
+0
+Top
+2
